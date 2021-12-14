@@ -1,0 +1,11 @@
+
+{email}
+Zahlungseingang Konzertkarten Hochschule München, {best_nr}
+
+{anrede},
+vielen Dank für Ihre Zahlung.
+Sie können Ihre Karten am Konzertabend am Einlass ab 18:30 Uhr abholen. Bitte halten Sie dafür Ihre Bestellnummer bereit. Bitte beachten Sie, dass eine Bestellung nur vollständig und nicht teilweise abgeholt werden kann.
+Der Einlass beginnt um 19:30 Uhr.
+
+Mit freundlichen Grüßen
+Ihr Kartenteam

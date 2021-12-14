@@ -1,0 +1,26 @@
+{anrede},
+
+Vielen Dank für Ihre Bestellung von
+{sano} Karte(n) normal, XX. Juni
+{saer} Karte(n) ermäßigt, XX. Juni
+{sono} Karte(n) normal, XX. Juni
+{soer} Karte(n) ermäßigt, XX. Juni
+
+Ihre Bestellnummer lautet {best_nr}.
+Bitte überweisen Sie den Betrag von {preis} € auf folgendes Konto:
+
+Empfänger: XXXXXXXXX
+IBAN: XXXX XXXX XXXX XXXX XX
+Bank: XXXXXXXX
+BIC: XXXXXXX
+Verwendungszweck: XXXXXXXXXX, {best_nr}
+
+Bitte achten Sie darauf, dass der Verwendungszweck richtig angegeben ist, sonst kommt das Geld nicht bei uns an. Sie erhalten von uns eine Bestätigungs-E-Mail, wenn Ihre Zahlung bei uns eingetroffen ist.
+
+Bitte beachten Sie, dass ein Umtausch oder die Rückgabe bereits bezahlter Karten nicht möglich ist.
+Die Sitzplätze des Aufführungsortes sind nicht nummeriert.
+Sie können Ihre Karten am Konzertabend am Einlass ab 18:30 Uhr unter Angabe der Bestellnummer abholen. Bitte beachten Sie, dass eine Bestellung nur vollständig und nicht teilweise abgeholt werden kann.
+Der Einlass beginnt um 19:30 Uhr.
+
+Mit freundlichen Grüßen
+Ihr Kartenteam
